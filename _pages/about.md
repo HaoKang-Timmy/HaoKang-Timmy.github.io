@@ -6,9 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+typora-copy-images-to: ./pic
 ---
 
-This is HaoKang, a research student at Zhejiang University, who has research experience in UCLA and MIT.
+This is HaoKang, a research student at Zhejiang University, who has research experience in UCLA and MIT. Please refer to CV part for more information.
 
 Basic Information
 ======
@@ -16,11 +17,21 @@ Basic Information
 2. Tofel:106(29,28,23,26)
 3. Research interests: System for machine learning, Efficient machine learning, Data augmentation.
 
+Education
+======
+
+1. 2019/09-Current ZJU Computer Science (**BS degree**)
+
+
 Research Project
 ======
 1. [Epipe: Efficient Pipeline with compression algorithms.](https://github.com/HaoKang-Timmy/Epipe)
 
    A project based on [Gpipe](https://github.com/kakaobrain/torchgpipe) and [Powersgd](https://github.com/epfml/powersgd). Reducing bandwidth in the condition of split learning.
+
+   <img src="./pic/image-20220923181925120.png" alt="image-20220923181925120" style="zoom:50%;" />
+
+   
 
 2. 
 
